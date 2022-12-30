@@ -1,5 +1,11 @@
    public void logowanie() {
         System.out.println("Podaj nazwę użytkownika");
-        System.out.println("Podaj dobre hasło");
+        System.out.println("Hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+  public void logowanie() {
+        System.out.println("Podaj konto email");
+        System.out.println("Podaj Hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
